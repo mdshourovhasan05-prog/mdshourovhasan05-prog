@@ -2,13 +2,9 @@
 <div align="center" style="margin: 20px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <div style="
     max-width: 750px;
-    background: linear-gradient(135deg, #1e1e2e 0%, #181825 100%);
+    background: #1e1e2e;
     border-radius: 20px;
     padding: 30px;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 
-                0 0 0 1px rgba(255, 255, 255, 0.1) inset,
-                0 10px 20px rgba(137, 180, 250, 0.15);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -16,67 +12,28 @@
     gap: 30px;
   ">
     
-    <!-- Profile Image Section with 3D Effect -->
-    <div style="position: relative;">
-      <div style="
-        width: 150px;
-        height: 150px;
+    <!-- Profile Image -->
+    <div>
+      <img src="./shourov.png" width="150" height="150" alt="Md Shourov Hassan" style="
         border-radius: 50%;
-        padding: 4px;
-        background: linear-gradient(135deg, #89b4fa, #f5c2e7, #b4befe);
-        box-shadow: 0 10px 25px rgba(137, 180, 250, 0.4);
-      ">
-        <img src="./shourov.png" alt="Md Shourov Hassan" style="
-          width: 100%;
-          height: 100%;
-          border-radius: 50%;
-          object-fit: cover;
-          display: block;
-          background-color: #11111b;
-        " />
-      </div>
+        object-fit: cover;
+        border: 4px solid #89b4fa;
+      " />
     </div>
 
-    <!-- Text & Details Section -->
+    <!-- Details -->
     <div style="flex: 1; min-width: 280px; text-align: left;">
-      <h1 style="
-        margin: 0;
-        font-size: 28px;
-        font-weight: 700;
-        background: linear-gradient(90deg, #89b4fa, #b4befe);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        letter-spacing: 0.5px;
-      ">
+      <h1 style="margin: 0; font-size: 28px; color: #89b4fa;">
         Md Shourov Hassan
       </h1>
       
-      <h3 style="
-        margin: 6px 0 14px 0;
-        font-size: 18px;
-        font-weight: 600;
-        color: #f5c2e7;
-        letter-spacing: 0.3px;
-      ">
+      <h3 style="margin: 6px 0 14px 0; font-size: 18px; color: #f5c2e7;">
         Full-Stack Web Developer
       </h3>
 
-      <div style="
-        height: 2px;
-        width: 60px;
-        background: linear-gradient(90deg, #89b4fa, transparent);
-        margin-bottom: 14px;
-        border-radius: 2px;
-      "></div>
-
-      <p style="
-        margin: 0;
-        color: #a6adc8;
-        font-size: 14px;
-        line-height: 1.6;
-      ">
+      <p style="margin: 0; color: #a6adc8; font-size: 14px; line-height: 1.6;">
         🚀 Turning ideas into clean, scalable web applications.<br/>
-        💻 <span style="color: #cdd6f4; font-weight: 500;">MERN Stack Specialist</span> | Problem Solver | Continuous Learner
+        💻 <strong style="color: #cdd6f4;">MERN Stack Specialist</strong> | Problem Solver | Continuous Learner
       </p>
     </div>
 
