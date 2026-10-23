@@ -3,7 +3,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
     <tr bgcolor="#1e1e2e">
       <td width="30%" align="center" style="padding: 25px;">
-        <img src="1000019683.jpg" width="160" height="160" style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover;" alt="Md Shourov Hassan" />
+        <img src="./shourov.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover;" alt="Md Shourov Hassan" />
       </td>
       <td width="70%" style="padding: 25px; color: #cdd6f4;">
         <h1 align="left" style="border: none; color: #89b4fa; margin: 0; font-size: 32px;">Md Shourov Hassan</h1>
