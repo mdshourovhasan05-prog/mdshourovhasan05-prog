@@ -1,5 +1,23 @@
 <!-- HEADER BANNER CARD -->
-<!-- HEADER BANNER CARD --> <!-- HEADER BANNER CARD --> <div align="center"> <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;"> <tr bgcolor="#1e1e2e"> <td width="30%" align="center" style="padding: 25px;"> <img src="./shourov.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover;" alt="Md Shourov Hassan" /> </td> <td width="70%" style="padding: 25px; color: #cdd6f4;"> <h1 align="left" style="border: none; color: #89b4fa; margin: 0; font-size: 32px;">Md Shourov Hassan</h1> <h3 align="left" style="border: none; color: #f5c2e7; margin-top: 5px; font-size: 20px;">Full-Stack Web Developer</h3> <p align="left" style="color: #a6adc8; margin-top: 10px; font-size: 14px;"> 🚀 Turning ideas into clean, scalable web applications. <br/> 💻 MERN Stack Specialist | Problem Solver | Continuous Learner </p> </td> </tr> </table> </div> <br/> 
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #1e1e2e; border-radius: 16px; border: 1px solid rgba(137, 180, 250, 0.3); overflow: hidden;">
+    <tr>
+      <td width="35%" align="center" style="padding: 25px; vertical-align: middle;">
+        <img src="./shourov.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover; display: block; min-width: 180px; min-height: 180px;" alt="Md Shourov Hassan" />
+      </td>
+      <td width="65%" style="padding: 25px 25px 25px 10px; color: #cdd6f4; vertical-align: middle;">
+        <h1 align="left" style="border: none; color: #89b4fa; margin: 0; font-size: 30px; font-weight: 700;">Md Shourov Hassan</h1>
+        <h3 align="left" style="border: none; color: #f5c2e7; margin-top: 6px; font-size: 18px; font-weight: 600;">Full-Stack Web Developer</h3>
+        <p align="left" style="color: #a6adc8; margin-top: 10px; font-size: 14px; line-height: 1.6;">
+          🚀 Turning ideas into clean, scalable web applications. <br/>
+          💻 <b style="color: #cdd6f4;">MERN Stack Specialist</b> | Problem Solver | Continuous Learner
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 # 👋 Hi, I'm Md Shourov Hassan
 
