@@ -1,43 +1,33 @@
 <!-- HEADER BANNER CARD -->
-<div align="center" style="margin: 20px 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <div style="
-    max-width: 750px;
-    background: #1e1e2e;
-    border-radius: 20px;
-    padding: 30px;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    gap: 30px;
-  ">
-    
-    <!-- Profile Image -->
-    <div>
-      <img src="./shourov.png" width="150" height="150" alt="Md Shourov Hassan" style="
-        border-radius: 50%;
-        object-fit: cover;
-        border: 4px solid #89b4fa;
-      " />
-    </div>
-
-    <!-- Details -->
-    <div style="flex: 1; min-width: 280px; text-align: left;">
-      <h1 style="margin: 0; font-size: 28px; color: #89b4fa;">
-        Md Shourov Hassan
-      </h1>
+<!-- GitHub Friendly Banner Card -->
+<div align="center">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse;">
+    <tr bgcolor="#1e1e2e">
+      <!-- Profile Picture Section -->
+      <td width="30%" align="center" style="padding: 25px; vertical-align: middle;">
+        <!-- এখানে আপনার আপলোড করা ছবির সঠিক Direct Image Link বসান -->
+        <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/shourov.png" 
+             width="150" 
+             height="150" 
+             alt="Md Shourov Hassan" 
+             style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover; display: block;" />
+      </td>
       
-      <h3 style="margin: 6px 0 14px 0; font-size: 18px; color: #f5c2e7;">
-        Full-Stack Web Developer
-      </h3>
-
-      <p style="margin: 0; color: #a6adc8; font-size: 14px; line-height: 1.6;">
-        🚀 Turning ideas into clean, scalable web applications.<br/>
-        💻 <strong style="color: #cdd6f4;">MERN Stack Specialist</strong> | Problem Solver | Continuous Learner
-      </p>
-    </div>
-
-  </div>
+      <!-- Text Information Section -->
+      <td width="70%" style="padding: 25px; color: #cdd6f4; vertical-align: middle; text-align: left;">
+        <h1 align="left" style="color: #89b4fa; margin: 0; font-size: 28px; font-weight: bold; border: none;">
+          Md Shourov Hassan
+        </h1>
+        <h3 align="left" style="color: #f5c2e7; margin-top: 6px; margin-bottom: 12px; font-size: 18px; font-weight: 600; border: none;">
+          Full-Stack Web Developer
+        </h3>
+        <p align="left" style="color: #a6adc8; margin: 0; font-size: 14px; line-height: 1.6;">
+          🚀 Turning ideas into clean, scalable web applications. <br/>
+          💻 <b style="color: #cdd6f4;">MERN Stack Specialist</b> | Problem Solver | Continuous Learner
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 # 👋 Hi, I'm Md Shourov Hassan
