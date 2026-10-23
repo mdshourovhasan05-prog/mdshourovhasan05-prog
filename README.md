@@ -1,34 +1,24 @@
 <!-- HEADER BANNER CARD -->
-<!-- GitHub Friendly Banner Card -->
+<!-- HEADER BANNER CARD -->
 <div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse;">
-    <tr bgcolor="#1e1e2e">
-      <!-- Profile Picture Section -->
-      <td width="30%" align="center" style="padding: 25px; vertical-align: middle;">
-        <!-- এখানে আপনার আপলোড করা ছবির সঠিক Direct Image Link বসান -->
-        <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/shourov.png" 
-             width="150" 
-             height="150" 
-             alt="Md Shourov Hassan" 
-             style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover; display: block;" />
-      </td>
-      
-      <!-- Text Information Section -->
-      <td width="70%" style="padding: 25px; color: #cdd6f4; vertical-align: middle; text-align: left;">
-        <h1 align="left" style="color: #89b4fa; margin: 0; font-size: 28px; font-weight: bold; border: none;">
-          Md Shourov Hassan
-        </h1>
-        <h3 align="left" style="color: #f5c2e7; margin-top: 6px; margin-bottom: 12px; font-size: 18px; font-weight: 600; border: none;">
-          Full-Stack Web Developer
-        </h3>
-        <p align="left" style="color: #a6adc8; margin: 0; font-size: 14px; line-height: 1.6;">
-          🚀 Turning ideas into clean, scalable web applications. <br/>
-          💻 <b style="color: #cdd6f4;">MERN Stack Specialist</b> | Problem Solver | Continuous Learner
-        </p>
-      </td>
-    </tr>
-  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-radius: 15px; overflow: hidden;">
+    <tr bgcolor="#1e1e2e">
+      <td width="30%" align="center" style="padding: 25px;">
+        <img src="./shourov.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #89b4fa; object-fit: cover;" alt="Md Shourov Hassan" />
+      </td>
+      <td width="70%" style="padding: 25px; color: #cdd6f4;">
+        <h1 align="left" style="border: none; color: #89b4fa; margin: 0; font-size: 32px;">Md Shourov Hassan</h1>
+        <h3 align="left" style="border: none; color: #f5c2e7; margin-top: 5px; font-size: 20px;">Full-Stack Web Developer</h3>
+        <p align="left" style="color: #a6adc8; margin-top: 10px; font-size: 14px;">
+          🚀 Turning ideas into clean, scalable web applications. <br/>
+          💻 MERN Stack Specialist | Problem Solver | Continuous Learner
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/> 
 
 # 👋 Hi, I'm Md Shourov Hassan
 
